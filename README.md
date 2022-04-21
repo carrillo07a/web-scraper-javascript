@@ -1,2 +1,2 @@
-# web-scraper-javascript
-Web Scraper Javascript
+# web-scraper-nodejs
+Web Scraper NodeJS
