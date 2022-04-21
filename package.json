@@ -1,0 +1,26 @@
+{
+	"name": "web-scraper-nodejs",
+	"version": "1.0.0",
+	"description": "Web Scraper NodeJS",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/carrillo07a/web-scraper-nodejs.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/carrillo07a/web-scraper-nodejs/issues"
+	},
+	"homepage": "https://github.com/carrillo07a/web-scraper-nodejs#readme",
+	"dependencies": {
+		"axios": "^0.26.1",
+		"cheerio": "^1.0.0-rc.10",
+		"cors": "^2.8.5",
+		"express": "^4.17.3"
+	}
+}
